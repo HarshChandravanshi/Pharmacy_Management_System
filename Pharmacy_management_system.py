@@ -4,7 +4,7 @@ import os
 f=open("database_proj",'a+')
 root = Tk()
 root.title("Simple Pharmacy Managment System")
-root.configure(width=1500,height=600,bg='BLACK')
+root.configure(width=1500,height=600,bg='BLACK') 
 var=-1
 
 def additem():
